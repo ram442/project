@@ -18,7 +18,11 @@ public class base1 extends base {
 		driver.findElementByXPath("(//android.widget.RelativeLayout)[2]").click();
 		driver.findElementByClassName("android.widget.EditText").sendKeys("shivaramvj");
 		driver.findElementById("android:id/button1").click();
-
+        
+		
+		System.out.print("ram");
+		System.out.print("ram111");
+		System.out.print("ram2222");
 		
 
 	}
