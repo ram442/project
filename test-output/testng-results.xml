@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102253" started-at="2021-10-14T11:15:35 IST" finished-at="2021-10-14T11:17:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102253" started-at="2021-10-14T11:15:35 IST" finished-at="2021-10-14T11:17:17 IST">
+      <class name="sample.webview">
+        <test-method status="PASS" signature="start()[pri:0, instance:sample.webview@2de8284b]" name="start" is-config="true" duration-ms="6813" started-at="2021-10-14T11:15:35 IST" finished-at="2021-10-14T11:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="activateapp()[pri:0, instance:sample.webview@2de8284b]" name="activateapp" duration-ms="8141" started-at="2021-10-14T11:15:42 IST" finished-at="2021-10-14T11:15:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activateapp -->
+        <test-method status="PASS" signature="start()[pri:0, instance:sample.webview@2de8284b]" name="start" is-config="true" duration-ms="5761" started-at="2021-10-14T11:15:50 IST" finished-at="2021-10-14T11:15:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="lock()[pri:0, instance:sample.webview@2de8284b]" name="lock" duration-ms="8216" started-at="2021-10-14T11:15:56 IST" finished-at="2021-10-14T11:16:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lock -->
+        <test-method status="PASS" signature="start()[pri:0, instance:sample.webview@2de8284b]" name="start" is-config="true" duration-ms="6200" started-at="2021-10-14T11:16:04 IST" finished-at="2021-10-14T11:16:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="longpress()[pri:0, instance:sample.webview@2de8284b]" name="longpress" duration-ms="13897" started-at="2021-10-14T11:16:10 IST" finished-at="2021-10-14T11:16:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- longpress -->
+        <test-method status="PASS" signature="start()[pri:0, instance:sample.webview@2de8284b]" name="start" is-config="true" duration-ms="5775" started-at="2021-10-14T11:16:24 IST" finished-at="2021-10-14T11:16:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="ram()[pri:0, instance:sample.webview@2de8284b]" name="ram" duration-ms="21487" started-at="2021-10-14T11:16:30 IST" finished-at="2021-10-14T11:16:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ram -->
+        <test-method status="PASS" signature="start()[pri:0, instance:sample.webview@2de8284b]" name="start" is-config="true" duration-ms="5628" started-at="2021-10-14T11:16:51 IST" finished-at="2021-10-14T11:16:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="runinbackground()[pri:0, instance:sample.webview@2de8284b]" name="runinbackground" duration-ms="5630" started-at="2021-10-14T11:16:57 IST" finished-at="2021-10-14T11:17:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runinbackground -->
+        <test-method status="PASS" signature="start()[pri:0, instance:sample.webview@2de8284b]" name="start" is-config="true" duration-ms="6043" started-at="2021-10-14T11:17:03 IST" finished-at="2021-10-14T11:17:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="scroll()[pri:0, instance:sample.webview@2de8284b]" name="scroll" duration-ms="8613" started-at="2021-10-14T11:17:09 IST" finished-at="2021-10-14T11:17:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+      </class> <!-- sample.webview -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
