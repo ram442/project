@@ -34,6 +34,11 @@ public class base3 extends base {
 		System.out.print("fkfkfk");
 		System.out.print("fkfkfk");
 		System.out.print("fkfkfk");
+		System.out.print("fkfkfk");
+		System.out.print("fkfkfk");
+		System.out.print("fkfkfk");
+		System.out.print("fkfkfk");
+		
 		
 		
 		t.longPress(longPressOptions().withElement(element(pn)).withDuration(ofSeconds(2))).moveTo(element(pnn)).release().perform();
