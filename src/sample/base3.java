@@ -30,6 +30,12 @@ public class base3 extends base {
 		WebElement pn=driver.findElementByXPath("//*[@content-desc='15']");
 		WebElement pnn=driver.findElementByXPath("//*[@content-desc='45']");
 		
+		System.out.print("fkfkfk");
+		System.out.print("fkfkfk");
+		System.out.print("fkfkfk");
+		System.out.print("fkfkfk");
+		
+		
 		t.longPress(longPressOptions().withElement(element(pn)).withDuration(ofSeconds(2))).moveTo(element(pnn)).release().perform();
 	}
 
